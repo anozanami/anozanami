@@ -41,7 +41,7 @@
 ## GitHub Stats
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=anozanami&show_icons=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&title_color=22c55e&icon_color=0ea5e9&text_color=38bdf8&ring_color=14b8a6&border_color=0ea5e9&bg_color=0d1117&hide_border=true" />
+  <img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anozanami&show_icons=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&title_color=22c55e&icon_color=0ea5e9&text_color=38bdf8&ring_color=14b8a6&border_color=0ea5e9&bg_color=0d1117&hide_border=true" />
 </div>
 
 ## 주요 프로젝트
