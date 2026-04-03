@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=200&section=header&text=Yeochan%20Yoon&fontSize=46&fontAlignY=38&desc=Cloud%20Engineer&descAlignY=58)
 
-### 장애를 인프라 레이어 단위로 분해하여 원인을 분석하는 클라우드 엔지니어 윤여찬입니다!
+### 장애를 인프라 레이어 단위로 분해하여 원인을 분석하는0윤여찬입니다!
 
 </div>
 
@@ -41,8 +41,8 @@
 ## GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anozanami&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anozanami&layout=compact&theme=transparent&hide_border=true" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anozanami&theme=github" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anozanami&theme=github" />
 </div>
 
 ## 주요 프로젝트
@@ -86,3 +86,4 @@
 - [시리즈 | 인턴 일기 - anozanami.log](https://velog.io/@anozanami/series/%EC%9D%B8%ED%84%B4-%EC%9D%BC%EA%B8%B0)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:0ea5e9&height=120&section=footer)
+
