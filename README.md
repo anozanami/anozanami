@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=200&section=header&text=Yeochan%20Yoon&fontSize=46&fontAlignY=38&desc=Cloud%20Engineer&descAlignY=58)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=%EC%9E%A5%EC%95%A0%EB%A5%BC+%EC%9D%B8%ED%94%84%EB%9D%BC+%EB%A0%88%EC%9D%B4%EC%96%B4+%EB%8B%A8%EC%9C%84%EB%A1%9C+%EB%B6%84%ED%95%B4%ED%95%98%EC%97%AC+%EC%9B%90%EC%9D%B8%EC%9D%84+%EB%B6%84%EC%84%9D%ED%95%98%EB%8A%94+%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C+%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4+%EC%9C%A4%EC%97%AC%EC%B0%AC%EC%9E%85%EB%8B%88%EB%8B%A4!)](https://git.io/typing-svg)
+### 장애를 인프라 레이어 단위로 분해하여 원인을 분석하는 클라우드 엔지니어 윤여찬입니다!
 
 </div>
 
