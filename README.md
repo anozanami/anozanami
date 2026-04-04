@@ -28,7 +28,7 @@ Result: Resolved critical 404 errors and restored mobile access
 
 ## Education
 Soongsil University
-Major | Computer Science & Engineering
+Major | Computer Science & Engineering (2021.03 - )
 
 ## Skills
 
