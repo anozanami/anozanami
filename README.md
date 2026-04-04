@@ -9,22 +9,22 @@
 
 ## Work Experience
 Infrastructure Intern (Gauss Labs, 2025.06 - 08)
-
-Action: Managed Docker/Nginx-based web infrastructure. Designed WireGuard VPN tunneling using Oracle Cloud to bypass ISP port restrictions and resolved Nginx proxy configuration errors.
-
+Action:
+- Managed Docker/Nginx-based web infrastructure.
+- Designed WireGuard VPN tunneling using Oracle Cloud to bypass ISP port restrictions and resolved Nginx proxy configuration errors.
 Result: Resolved critical 404 errors and restored mobile access
 
 
 ## Experience
 
 ### 2026
-Explainable Fake News Detection AI Platform (2026.03 - 10)
-Real-time Distributed Queue Management System (Ticketing Service) (2026.01 - 03)
-Beyondu: Backend Service Deployment & CI/CD (2026.01 - )
+- Explainable Fake News Detection AI Platform (2026.03 - 10)
+- Real-time Distributed Queue Management System (Ticketing Service) (2026.01 - 03)
+- Beyondu: Backend Service Deployment & CI/CD (2026.01 - )
 
 ### 2025
-Cafe Ordering Web Application (2025.12)
-Yourssu | Backend Engineer (2025.09 -)
+- Cafe Ordering Web Application (2025.12)
+- Yourssu | Backend Engineer (2025.09 -)
 
 ## Education
 Soongsil University
