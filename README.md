@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-<h2>Hi there I'm anozanami 👋</h2>
+<h2 align="left">Hi there I'm anozanami 👋</h2>
 <p><a href="https://www.notion.so/32c78cd98e8280c59401c56f0b5820fc?source=copy_link">Portfolio</a> | <a href="https://velog.io/@anozanami/posts">Velog</a> | <a href="https://medium.com/@ducks.urssu">Medium</a></p>
 
 </div>
@@ -14,10 +14,11 @@
 ## Projects
 
 - fake news detection AI Platform | LLMOps & DevOps (2026.03 - 10)
-- Morupark(Real-Time Distributed Queue Management System) | DevOps (2026.01 - )
-- BeyondU(Exchange Student Information Platform) | DevOps, Data Engineer (2026.01 - 05)
+  https://github.com/Hanium-Whatson/Whatson-infra
+- [Morupark](https://morupark.urssu.com/)(Real-Time Distributed Queue Management System) | DevOps (2026.01 - )
+- [BeyondU](https://beyondu.yourssu.com/)(Exchange Student Information Platform) | DevOps, Data Engineer (2026.01 - 05)
 
-- Cafe Pos System | Full-Stack Developer (2025.12)
+- [Cafe Pos System](https://skcndm.csu.ac.kr/) | Full-Stack Developer (2025.12)
 
 ## Education
 Soongsil University, Computer Science & Engineering (2021 - )
