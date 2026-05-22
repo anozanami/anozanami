@@ -13,10 +13,9 @@
 
 ## Projects
 
-- fake news detection AI Platform | LLMOps & DevOps (2026.03 - 10)
-  https://github.com/Hanium-Whatson/Whatson-infra
-- [Morupark](https://morupark.urssu.com/)(Real-Time Distributed Queue Management System) | DevOps (2026.01 - )
-- [BeyondU](https://beyondu.yourssu.com/)(Exchange Student Information Platform) | DevOps, Data Engineer (2026.01 - 05)
+- [fake news detection AI Platform](https://github.com/Hanium-Whatson/Whatson-infra) | LLMOps & DevOps (2026.03 - 10)
+- [Morupark](https://github.com/yourssu/backend-morupark)(Real-Time Distributed Queue Management System) | DevOps (2026.01 - )
+- [BeyondU](https://github.com/yourssu/BeyondU-data)(Exchange Student Information Platform) | DevOps, Data Engineer (2026.01 - 05)
 
 - [Cafe Pos System](https://skcndm.csu.ac.kr/) | Full-Stack Developer (2025.12)
 
