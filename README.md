@@ -1,31 +1,26 @@
 ﻿<div align="center">
 
-## Hi there 👋
-## I'm Anozanami
-
-[Portfolio](https://www.notion.so/32c78cd98e8280c59401c56f0b5820fc?source=copy_link) | [Velog](https://velog.io/@anozanami/posts) | [Medium](https://medium.com/@ducks.urssu)
+<h2>Hi there I'm anozanami 👋</h2>
+<p><a href="https://www.notion.so/32c78cd98e8280c59401c56f0b5820fc?source=copy_link">Portfolio</a> | <a href="https://velog.io/@anozanami/posts">Velog</a> | <a href="https://medium.com/@ducks.urssu">Medium</a></p>
 
 </div>
 
 
 ## Experience
-- Infrastructure Engineer, [Gauss Lab](http://gausslab.co.kr/) (2025.06 - 08)
+- [Gauss Lab](http://gausslab.co.kr/) | Infrastructure Engineer (2025.06 - 08)
 - [Yourssu](https://yourssu.com/) | Backend Engineer (2025.09 - )
 
 
 ## Projects
 
-### 2026
-- 설명 가능한 가짜 뉴스 탐지 AI 플랫폼 (2026.03 - 10)
-- 실시간 분산 대기열 관리 시스템 (티켓팅 서비스) (2026.01 - 03)
-- Beyondu 백엔드 서비스 배포 및 CI/CD (2026.01 - )
+- fake news detection AI Platform | LLMOps & DevOps (2026.03 - 10)
+- Morupark(Real-Time Distributed Queue Management System) | DevOps (2026.01 - )
+- BeyondU(Exchange Student Information Platform) | DevOps, Data Engineer (2026.01 - 05)
 
-### 2025
-- 카페 주문 웹 애플리케이션 (2025.12)
-- 유어슈 | 백엔드 엔지니어 (2025.09 -)
+- Cafe Pos System | Full-Stack Developer (2025.12)
 
 ## Education
-Soongsil University, Computer Science & Engineering (2021 ~ )
+Soongsil University, Computer Science & Engineering (2021 - )
 
 ## Skills
 
