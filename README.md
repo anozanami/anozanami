@@ -1,34 +1,35 @@
 ﻿<div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=200&section=header&text=윤여찬&fontSize=46&fontAlignY=38)
+[Portfolio](https://www.notion.so/32c78cd98e8280c59401c56f0b5820fc?source=copy_link) | [Velog](https://velog.io/@anozanami/posts) | [Medium](https://medium.com/@ducks.urssu)
 
 </div>
 
 
-## Work Experience
-Infrastructure Intern (Gauss Labs, 2025.06 - 08)
-Action:
-- Managed Docker/Nginx-based web infrastructure.
-- Designed WireGuard VPN tunneling using Oracle Cloud to bypass ISP port restrictions and resolved Nginx proxy configuration errors.
-Result: Resolved critical 404 errors and restored mobile access
+## 경력 요약
+가우스랩 인프라 운영 인턴 (2025.06 - 08)
+수행 내용:
+- Docker/Nginx 기반 웹 인프라를 운영했습니다.
+- 통신사 포트 제한을 우회하기 위해 Oracle Cloud 기반 WireGuard VPN 터널링을 설계하고, Nginx 프록시 설정 오류를 해결했습니다.
+성과:
+- 주요 404 오류를 해결하고 모바일 접근을 정상화했습니다.
 
 
-## Experience
+## 경험
 
 ### 2026
-- Explainable Fake News Detection AI Platform (2026.03 - 10)
-- Real-time Distributed Queue Management System (Ticketing Service) (2026.01 - 03)
-- Beyondu: Backend Service Deployment & CI/CD (2026.01 - )
+- 설명 가능한 가짜 뉴스 탐지 AI 플랫폼 (2026.03 - 10)
+- 실시간 분산 대기열 관리 시스템 (티켓팅 서비스) (2026.01 - 03)
+- Beyondu 백엔드 서비스 배포 및 CI/CD (2026.01 - )
 
 ### 2025
-- Cafe Ordering Web Application (2025.12)
-- Yourssu | Backend Engineer (2025.09 -)
+- 카페 주문 웹 애플리케이션 (2025.12)
+- 유어슈 | 백엔드 엔지니어 (2025.09 -)
 
-## Education
-Soongsil University
-Major | Computer Science & Engineering (2021.03 - )
+## 학력
+숭실대학교
+전공 | 컴퓨터학부 (2021.03 - )
 
-## Skills
+## 기술 스택
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
@@ -40,27 +41,27 @@ Major | Computer Science & Engineering (2021.03 - )
 ![Prometeus](https://img.shields.io/badge/Prometeus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-## Programming Languages
+## 프로그래밍 언어
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## Tool
+## 도구
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
-## Studying
+## 학습 중
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 ![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white)
 
-## GitHub Stats
+## GitHub 통계
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=anozanami&show_icons=true&theme=transparent&hide_border=true" />
@@ -85,9 +86,9 @@ Major | Computer Science & Engineering (2021.03 - )
   MAU 2000 기준 동시 접속 부하 테스트에서 최대 716 RPS, p95 305ms 성능을 확보했습니다.
 - Static IP 점유로 인한 LB 생성 실패 문제를 Cloudflare Ingress Service Pod 레이어 순서로 원인을 분해 분석하여 해결했습니다.
 
-**Reference**
+**참고 자료**
 
-- [GitHub - yourssu/backend-morupark](https://github.com/yourssu/backend-morupark)
+- [GitHub - yourssu/backend-morupark 저장소](https://github.com/yourssu/backend-morupark)
 - [인프라는 크레페 케이크다](https://medium.com/@ducks.urssu/%EC%9D%B8%ED%94%84%EB%9D%BC%EB%8A%94-%ED%81%AC%EB%A0%88%ED%8E%98-%EC%BC%80%EC%9D%B4%ED%81%AC%EB%8B%A4-f462841566e3)
 
 ## 경력 사항
@@ -103,7 +104,7 @@ Major | Computer Science & Engineering (2021.03 - )
 3. **모바일사업부 페이지 접속 불가 문제 해결**
    SSL 인증서 만료, 포트 충돌, Docker 네트워크 문제 등 복합 장애를 단계적으로 분석하여 프로토콜 조정 및 백엔드 포트 재매핑으로 API와 DB 연결을 정상화했습니다.
 
-**Reference**
+**참고 자료**
 
 - [시리즈 | 인턴 일기 - anozanami.log](https://velog.io/@anozanami/series/%EC%9D%B8%ED%84%B4-%EC%9D%BC%EA%B8%B0)
 
