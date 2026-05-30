@@ -20,6 +20,7 @@
   - [blog1](https://medium.com/@ducks.urssu/cloudflare-520-%EC%97%90%EB%9F%AC-load-balancer-d130e44a3a39) | [blog2](https://medium.com/@ducks.urssu/%EB%AA%A8%EB%A3%A8%ED%8C%8C%ED%81%AC-2-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0%EC%9D%80-%EB%B0%A9%ED%83%88%EC%B6%9C%EC%9D%B4%EB%8B%A4-ea74a92e9254) | [blog3](https://medium.com/@ducks.urssu/%EB%AA%A8%EB%A3%A8%ED%8C%8C%ED%81%AC-3-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EB%8F%84%EC%9E%85-%EC%8B%A4%ED%8C%A8%EA%B8%B0-4f384dedaad4) | [blog4](https://medium.com/@ducks.urssu/%EB%AA%A8%EB%A3%A8%ED%8C%8C%ED%81%AC-4-kafka-%EB%8C%80%EA%B8%B0%EC%97%B4-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EB%B3%B5%EA%B5%AC%ED%95%98%EA%B8%B0-b7d0022314dd) | [blog5](https://medium.com/@ducks.urssu/%EC%9D%B8%ED%94%84%EB%9D%BC%EB%8A%94-%ED%81%AC%EB%A0%88%ED%8E%98-%EC%BC%80%EC%9D%B4%ED%81%AC%EB%8B%A4-833296ee179f)
   - [repository](https://github.com/yourssu/backend-morupark)
 - BeyondU (Exchange Student Information Platform) | DevOps, Data Engineer (2026.01 - 05)
+  - [page](https://beyondu.yourssu.com/)
   - [data-repository](https://github.com/yourssu/BeyondU-data) | [backend-repository](https://github.com/yourssu/BeyondU-backend)
 - Cafe Pos System | Full-Stack Developer (2025.12)
   - [page](https://skcndm.csu.ac.kr/)
