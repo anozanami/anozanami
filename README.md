@@ -6,9 +6,9 @@
 </div>
 
 ## Experience
-- [Asteromorph](https://asteromorph.com/) | DX Engineer (2026.07 - 08)
-- [Gauss Lab](http://gausslab.co.kr/) | Infrastructure Engineer (2025.06 - 08)
-- [Yourssu](https://yourssu.com/) | Backend Engineer (2025.09 - )
+- [Asteromorph](https://asteromorph.com/) | DX Engineer (2026.07 ~ )
+- [Gauss Lab](http://gausslab.co.kr/) | Infrastructure Engineer (2025.06 ~ 08)
+- [Yourssu](https://yourssu.com/) | Backend Engineer (2025.09 ~ )
 
 ## Education
 Soongsil University, Computer Science & Engineering (2021 - )
